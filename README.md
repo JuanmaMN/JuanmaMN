@@ -11,7 +11,8 @@ Welcome to my Github Profile!
     - [Personal website](https://juanmaprofile.netlify.app/)
     - [Twitter profile](https://twitter.com/Juanma_MN)
     - [Tableau public profile](https://public.tableau.com/app/profile/juanma4308#!/)
-    - [Figma community profile](https://www.figma.com/@juanmamn): Please feel free to duplicate any of my projects     
+    - [Figma community profile](https://www.figma.com/@juanmamn): Please feel free to duplicate any of my projects  
+    - [Behance profile](http://www.behance.net/juanmamn). Please feel free to comment, feedback on any of my projects.
 
 
 <!--
