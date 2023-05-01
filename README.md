@@ -8,7 +8,7 @@ Welcome to my Github Profile!
 - 🔭 I’m currently working on a city development project  
 - 🌱 I’m currently learning design softwares and map visualization
 - 📫 How to reach me: 
-    - [Personal website](https://juanmaprofile.netlify.app/)
+    - [Personal website](https://juanmaprofile.netlify.app/). Please feel fre to provide any feedback.
     - [Twitter profile](https://twitter.com/Juanma_MN)
     - [Tableau public profile](https://public.tableau.com/app/profile/juanma4308#!/)
     - [Figma community profile](https://www.figma.com/@juanmamn): Please feel free to duplicate any of my projects  
