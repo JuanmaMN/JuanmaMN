@@ -7,6 +7,7 @@ Welcome to my Github Profile!
 
 - 🔭 I’m currently working on a city development project  
 - 🌱 I’m currently learning design softwares and map visualization
+- Summary of my visualizations. [Figma presentation link](https://www.figma.com/proto/B25bhXgfchSmt4ZIUbHyaR/Visualisations?page-id=0%3A1&type=design&node-id=501-705&viewport=5436%2C2257%2C0.5&scaling=contain&starting-point-node-id=501%3A705)
 - 📫 How to reach me: 
     - [Personal website](https://juanmaprofile.netlify.app/). Please feel fre to provide any feedback.
     - [Twitter profile](https://twitter.com/Juanma_MN)
