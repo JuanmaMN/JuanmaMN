@@ -11,7 +11,7 @@ Welcome to my Github Profile!
     - [Figma presentation link](https://www.figma.com/proto/B25bhXgfchSmt4ZIUbHyaR/Visualisations?page-id=0%3A1&type=design&node-id=501-705&viewport=5436%2C2257%2C0.5&scaling=contain&starting-point-node-id=501%3A705)
     - [NBA analytics](https://www.figma.com/proto/B25bhXgfchSmt4ZIUbHyaR/Visualisations?page-id=5%3A0&type=design&node-id=610-215&viewport=452%2C485%2C0.13&scaling=contain)
 - 📫 How to reach me: 
-    - [Personal website](https://juanmaprofile.netlify.app/). Please feel fre to provide any feedback.
+    - [Personal website](https://juanmaprofile.netlify.app/). Please feel free to provide any feedback.
     - [Twitter profile](https://twitter.com/Juanma_MN)
     - [Tableau public profile](https://public.tableau.com/app/profile/juanma4308#!/)
     - [Figma community profile](https://www.figma.com/@juanmamn): Please feel free to duplicate any of my projects  
