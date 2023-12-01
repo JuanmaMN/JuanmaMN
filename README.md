@@ -8,7 +8,7 @@ Welcome to my Github Profile!
 - 🔭 I’m currently working on a city development project  
 - 🌱 I’m currently learning design softwares and map visualization
 - Summary of some of my visualizations. 
-    - [Figma presentation link](https://www.figma.com/proto/B25bhXgfchSmt4ZIUbHyaR/Visualisations?page-id=0%3A1&type=design&node-id=501-705&viewport=5436%2C2257%2C0.5&scaling=contain&starting-point-node-id=501%3A705)
+    - [Figma presentation link](https://www.figma.com/file/B25bhXgfchSmt4ZIUbHyaR/Visualisations?type=design&node-id=0%3A1&mode=design&t=OdrnMWWPAreQmZQ6-1)
     - [NBA analytics](https://www.figma.com/proto/B25bhXgfchSmt4ZIUbHyaR/Visualisations?page-id=5%3A0&type=design&node-id=610-215&viewport=452%2C485%2C0.13&scaling=contain)
 - 📫 How to reach me: 
     - [Personal website](https://juanmaprofile.netlify.app/). Please feel free to provide any feedback.
